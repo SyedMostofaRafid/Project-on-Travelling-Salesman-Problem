@@ -1,0 +1,8 @@
+1. open xaamp folder in your c drive
+2. find "htdots" folder there
+3. create a folder named db_connection there
+4. copy the codes in your local environment with three files named ( db_connection.php , login.html , login.php )
+5. Do not forget to copy your html code in the end of your login.php file.
+6. search localhost/db_connection in your browser
+7. You will find your page. give user name and password there 
+8. You will find your expected output there
